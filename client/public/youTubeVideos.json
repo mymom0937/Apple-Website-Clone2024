@@ -1,0 +1,284 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "25LLyAHgyXc-uKPV8e-YOX0plV0",
+  "nextPageToken": "CAgQAA",
+  "regionCode": "ET",
+  "pageInfo": {
+    "totalResults": 244,
+    "resultsPerPage": 8
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QxRoqfX3ljY4bW4BkdUnz2Bneuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q_EYoV1kZWk"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-10T19:22:54Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Intelligence in 5 minutes",
+        "description": "Here's a quick recap of the most exciting new features that Apple Intelligence puts right at your fingertips. It's a new kind of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q_EYoV1kZWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q_EYoV1kZWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q_EYoV1kZWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-10T19:22:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sLfPpVDMrCLws4BhHAQT8XOeWk0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "546ufMY7488"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-10T19:10:20Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Intelligence | Privacy",
+        "description": "Apple Intelligence sets a brand-new standard for privacy in AI. It's designed to protect your privacy at every step and is integrated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/546ufMY7488/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/546ufMY7488/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/546ufMY7488/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-10T19:10:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7jA_3wBZAb2tJUnUC_JqPNaSjVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LtIWE4CCX5M"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-10T18:56:21Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "18 things from WWDC24 | Apple",
+        "description": "Here's your guide to the big announcements from this year's Worldwide Developers Conference. Watch the full keynote here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LtIWE4CCX5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LtIWE4CCX5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LtIWE4CCX5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-10T18:56:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mN3uTiuLRl2VxwvgbJiO3W06f-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RXeOiIDNNek"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-10T18:52:24Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "WWDC 2024 — June 10 | Apple",
+        "description": "Watch the WWDC24 keynote introducing Apple Intelligence, personal intelligence designed to be helpful and relevant to you.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RXeOiIDNNek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RXeOiIDNNek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RXeOiIDNNek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-10T18:52:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p3xrHo5vV5VGW9wkPx5gsSPW6fg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YpUTBBdb4UM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-07T23:09:49Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone + Apple Watch | Big Fish | Apple",
+        "description": "Double tap to snap a photo. iPhone + Apple Watch Series 9. Learn more about iPhone at https://apple.co/2zOn11z and Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YpUTBBdb4UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YpUTBBdb4UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YpUTBBdb4UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-07T23:09:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sjEXFezcf58yUeDNC3ekYNr87Js",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UeE4l2MlWMo"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-03T17:15:48Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Mac | Found | Apple",
+        "description": "Losing your laptop happens. Find it with Find My. There's nothing like Mac. Learn more: https://apple.co/3Kugjlb Audio ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UeE4l2MlWMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UeE4l2MlWMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UeE4l2MlWMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-03T17:15:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9Ixb4GGoQZZR3SCkImLAC7yJy9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vb4jrtDzFhE"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-03T16:00:32Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Mac | Powered | Apple",
+        "description": "Handle multiple apps and assignments with the power of Apple silicon. There's nothing like Mac. Learn more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vb4jrtDzFhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vb4jrtDzFhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vb4jrtDzFhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-03T16:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VmGE6pCKm7J_DpKJADVUJJTP8iI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZpLYP-JHg9A"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-03T16:00:29Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Mac | Charged | Apple",
+        "description": "Power through a full day of classes with all-day battery life on MacBook Air. There's nothing like Mac. Learn more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZpLYP-JHg9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZpLYP-JHg9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZpLYP-JHg9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-03T16:00:29Z"
+      }
+    }
+  ]
+}

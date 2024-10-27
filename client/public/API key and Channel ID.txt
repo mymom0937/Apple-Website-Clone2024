@@ -1,0 +1,39 @@
+API Key: AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc
+
+Format to GET Channels ID:
+
+1.  https://www.googleapis.com/youtube/v3/channelS?key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc&forUsername=Apple&part=id
+
+2.  https://youtube.googleapis.com/youtube/v3/channels?part=id&forUsername=apple&key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc
+
+
+Apple cahnnel ID: UCE_M8A5yxnLfW0KghEeajjw
+
+Evangadi Channel ID: UCxA7AzkI2Sndf8S1G5rSkwQ
+
+TO request API call FOR Apple:
+
+
+/////   AIzaSyBl6uOOoIYWATia_dFvWcK0HpuBbat0MIQ   ////----- API KEY-Apple API KEY
+
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyBl6uOOoIYWATia_dFvWcK0HpuBbat0MIQ&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=8
+
+/// UCE_M8A5yxnLfW0KghEeajjw  ///----ChannelID
+
+1. https://www.googleapis.com/youtube/v3/search?key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=5
+
+
+2.  https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCE_M8A5yxnLfW0KghEeajjw&maxResults=5&order=date&key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc
+
+TO request API call FOR Evangadi:
+1. https://www.googleapis.com/youtube/v3/search?key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc&channelId=UCxA7AzkI2Sndf8S1G5rSkwQ&part=snippet,id&order=date&maxResults=6
+
+2.  https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCxA7AzkI2Sndf8S1G5rSkwQ&maxResults=6&order=date&key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc
+
+
+
+https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCxA7AzkI2Sndf8S1G5rSkwQ&maxResults=3&order=date&key=AIzaSyC_0IkHhoDNotRH_6plr5n1bLvE25ZTZXc
+
+
+// Bootstrap CSS import 
+import 'bootstrap/dist/css/bootstrap.min.css';
